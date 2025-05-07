@@ -15,17 +15,6 @@
  */
 import Image from "next/image";
 
-/**
- * HomePage component.
- * This is the main functional component for the landing page.
- * @returns {JSX.Element} The rendered home page.
- *
- * AI Agent Instructions:
- * - The current content is a simple placeholder. Replace it with the actual landing page content.
- * - Use semantic HTML elements (e.g., `<main>`, `<section>`, `<article>`, `<header>`, `<footer>`) for better accessibility and SEO.
- * - Apply Tailwind CSS classes directly to elements for styling.
- * - If the page becomes complex, break it down into smaller, manageable components.
- */
 export default function HomePage() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
