@@ -13,7 +13,7 @@
  * - Refer to `COMPONENT_BLUEPRINTS/` for guidance on creating common landing page sections.
  * - Ensure all new components and sections are well-commented for other AI agents and human developers.
  */
-import Image from "next/image"; // AI Agent Instructions: Import Next.js Image component for optimized images.
+import Image from "next/image";
 
 /**
  * HomePage component.
